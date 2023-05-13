@@ -7,6 +7,9 @@
 
 ![Screenshot of game](screenshots/game.png)
 
+## How to Run
+Run the file src/main/ui/TwoChess.java.
+
 ## Features
 - Checkmate detection
 - GUI move highlighting
