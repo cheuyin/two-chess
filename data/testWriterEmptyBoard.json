@@ -1,0 +1,183 @@
+{
+    "currentTurn": "WHITE",
+    "pieces": [
+        {
+            "side": "WHITE",
+            "position": "f1",
+            "type": "BISHOP"
+        },
+        {
+            "side": "WHITE",
+            "atStartPos": true,
+            "position": "f2",
+            "type": "PAWN"
+        },
+        {
+            "side": "WHITE",
+            "position": "b1",
+            "type": "KNIGHT"
+        },
+        {
+            "side": "WHITE",
+            "atStartPos": true,
+            "position": "b2",
+            "type": "PAWN"
+        },
+        {
+            "side": "BLACK",
+            "atStartPos": true,
+            "position": "f7",
+            "type": "PAWN"
+        },
+        {
+            "side": "BLACK",
+            "position": "f8",
+            "type": "BISHOP"
+        },
+        {
+            "side": "BLACK",
+            "atStartPos": true,
+            "position": "b7",
+            "type": "PAWN"
+        },
+        {
+            "side": "BLACK",
+            "position": "b8",
+            "type": "KNIGHT"
+        },
+        {
+            "side": "WHITE",
+            "position": "g1",
+            "type": "KNIGHT"
+        },
+        {
+            "side": "WHITE",
+            "atStartPos": true,
+            "position": "g2",
+            "type": "PAWN"
+        },
+        {
+            "side": "WHITE",
+            "position": "c1",
+            "type": "BISHOP"
+        },
+        {
+            "side": "WHITE",
+            "atStartPos": true,
+            "position": "c2",
+            "type": "PAWN"
+        },
+        {
+            "side": "BLACK",
+            "atStartPos": true,
+            "position": "g7",
+            "type": "PAWN"
+        },
+        {
+            "side": "BLACK",
+            "position": "g8",
+            "type": "KNIGHT"
+        },
+        {
+            "side": "BLACK",
+            "atStartPos": true,
+            "position": "c7",
+            "type": "PAWN"
+        },
+        {
+            "side": "BLACK",
+            "position": "c8",
+            "type": "BISHOP"
+        },
+        {
+            "side": "WHITE",
+            "position": "h1",
+            "type": "ROOK"
+        },
+        {
+            "side": "WHITE",
+            "atStartPos": true,
+            "position": "h2",
+            "type": "PAWN"
+        },
+        {
+            "side": "WHITE",
+            "position": "d1",
+            "type": "QUEEN"
+        },
+        {
+            "side": "WHITE",
+            "atStartPos": true,
+            "position": "d2",
+            "type": "PAWN"
+        },
+        {
+            "side": "BLACK",
+            "atStartPos": true,
+            "position": "h7",
+            "type": "PAWN"
+        },
+        {
+            "side": "BLACK",
+            "position": "h8",
+            "type": "ROOK"
+        },
+        {
+            "side": "BLACK",
+            "atStartPos": true,
+            "position": "d7",
+            "type": "PAWN"
+        },
+        {
+            "side": "BLACK",
+            "position": "d8",
+            "type": "QUEEN"
+        },
+        {
+            "side": "WHITE",
+            "position": "e1",
+            "type": "KING"
+        },
+        {
+            "side": "WHITE",
+            "atStartPos": true,
+            "position": "e2",
+            "type": "PAWN"
+        },
+        {
+            "side": "WHITE",
+            "position": "a1",
+            "type": "ROOK"
+        },
+        {
+            "side": "WHITE",
+            "atStartPos": true,
+            "position": "a2",
+            "type": "PAWN"
+        },
+        {
+            "side": "BLACK",
+            "atStartPos": true,
+            "position": "e7",
+            "type": "PAWN"
+        },
+        {
+            "side": "BLACK",
+            "position": "e8",
+            "type": "KING"
+        },
+        {
+            "side": "BLACK",
+            "atStartPos": true,
+            "position": "a7",
+            "type": "PAWN"
+        },
+        {
+            "side": "BLACK",
+            "position": "a8",
+            "type": "ROOK"
+        }
+    ],
+    "gameOver": false,
+    "moveList": []
+}
