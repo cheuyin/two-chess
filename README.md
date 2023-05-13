@@ -8,7 +8,7 @@
 ![Screenshot of game](screenshots/game.png)
 
 ## How to Run
-Run the file src/main/ui/TwoChess.java.
+Run the file `src/main/ui/TwoChess.java`.
 
 ## Features
 - Checkmate detection
@@ -17,12 +17,13 @@ Run the file src/main/ui/TwoChess.java.
 - Move history panel where you can click on particular moves for more information
 
 ## Things I Learned
+- Creating a Java GUI with Java Swing
 - Testing: achieved 99%+ code coverage with JUnit 5
-- Abstraction and inheritance by making individual piece classes extend the abstract Piece.java class
+- Abstraction and inheritance by making individual piece classes extend the abstract `Piece.java` class
 - Separating the model and UI parts of a program
 - Breaking down a complex project into easier parts and making a plan to complete it within a tight personal schedule
 
 ## What Can Be Improved
 - Implement all the features of chess, including el-passant, castling, pawn promotion, and three-move repetition
-- Improve design of code by abstracting out the game logic from Board.java (currently, it is responsible for doing too many things)
+- Improve design of code by abstracting out the game logic from `Board.java` (currently, it is responsible for doing too many things)
 - Improve efficiency of checkmate-detection algorithm, making sure it isn't called where it doesn't need to be called
